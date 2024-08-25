@@ -97,23 +97,22 @@ label {
     margin-top: 0.5em;
     align-items: center;
     text-align: center;
+    font-size: 10px;
 }
 
 .esqueceu-senha {
     text-align: right;
     margin-left: auto;
-}
-
-.esqueceu-senha a{
-    font-size: 0.7em;
+    margin-bottom: 0.5em;
 }
 
 .remember{
-    font-size: 0.7em;
     display: flex;
     justify-content: center;
     text-align: center;
 }
+
+
 
 .remember span{
     margin-left: 0.2em;
@@ -128,10 +127,11 @@ button {
     border: none;
     width: 100%;
     border-radius: 0.5em;
-    padding: 0.7em;
+    padding: 0.5em;
     margin-top: 10px; 
     background-color: #0b0b64;
     color: #fff;
+    font-size: 1.3em;
 }
 
 .frase-impactante{
